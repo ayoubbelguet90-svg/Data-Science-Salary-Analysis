@@ -79,6 +79,4 @@ Queries and maps attributes across fluid, expanding spill range vectors:
 2. Open the workbook using **Microsoft Excel 365** or **Excel 2021+** (required to support dynamic array features and spill range operator `#`).
 3. Navigate to the main dashboard tab and utilize the slicers at the top to slice and dice the data market metrics instantly.
 [Live Excel Sheet on OneDrive](https://1drv.ms/x/c/e32b32bc7ac0127f/IQDna172mIHpSJ3k2niaB7nbARv1AlKeCXsR_HStKMSGEQk)
-
-
-<img width="1317" height="558" alt="Screenshot 2026-06-17 212425" src="https://github.com/user-attachments/assets/c3102640-37c9-4f8d-b27f-b3f6abe18a99" />
+<img width="1350" height="560" alt="Animation" src="https://github.com/user-attachments/assets/99b874d0-db79-435f-b3ff-b76edd145dfa" />
